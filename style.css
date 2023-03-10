@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Roboto:ital,wght@0,300;1,100;1,700&display=swap');
+
+h1{
+    background-color: tomato;
+    font-family: 'Bungee Shade', cursive;
+}
+
+a{
+    background-color: tomato;
+}
+
+.text-content{
+    font-size: medium;
+}
+
+.title-content{
+    font-weight: 1000;
+}
+
+#titolo-principale{
+    color: gold;
+}
+
+h4,h5{
+    color: blue;
+}
+
+p a{
+    color: aliceblue;
+}
+
+.font-grosso a{
+    color: red;
+}
+
+.titolone{
+    width: 50%;
+    height: 80px;
+}
+
+.mamma{
+    background-color: darkorange;
+    width: 50%;
+    height: 50%;
+}
+
+.figlia{
+    width: 80%;
+    min-width: 200px;
+    height: 180px;
+    overflow: hidden;
+    margin-top: -7px;
+}
+
+.primo{
+    background-color: aqua;
+    padding: 18px;
+}
+
+.secondo{
+    background-color: chartreuse;
+    margin: 20px 60px 38px 40px;
+}
+
+.body{
+    background-color: grey;
+    font-family: 'Roboto', sans-serif;
+}
+
+.terzo{
+    /* border: solid red 10px; */
+    width: auto;
+    height: 500px;
+    border: solid gold 20px;
+    border-top: dashed purple 20px;
+    border-bottom: dashed purple 20px;
+    background-size: 200px 5000px 4000;
+    border-radius: 10px;
+    border-top-right-radius: 0%;
+    background-image: url("/assets/gettyimages-ab26958-1669106239.jpg");
+    background-position: center;
+
+}
+.quarto{
+    background-color: green;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+}
+
+.quinto{
+    background-color: violet;
+    display: inline;
+}
